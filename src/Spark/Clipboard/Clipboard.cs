@@ -22,4 +22,5 @@ namespace Spark.Clipboard
                 LinuxClipboard.SetText(text);
             }
         }
+    }
 }
