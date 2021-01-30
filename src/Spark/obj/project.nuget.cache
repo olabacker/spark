@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "GRA4pzJX8Y5KAiXdOh0XghfKp/xMSW5jWCt5Za89lsgmkJTZdsYsKJb2T155psxIcndBWqDW2gi19g9geomNTg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\olaba\\Projects\\spark\\src\\Spark\\Spark.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\olaba\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\olaba\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
